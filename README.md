@@ -1,4 +1,4 @@
-# Brickpi Robot
+# BrickPi3 Robot
 
 <a href="https://ibb.co/Jvn1sfJ"><img src="https://i.ibb.co/Jvn1sfJ/unnamed.png" alt="unnamed" border="0"></a>
 <a href="https://ibb.co/kGtT11X"><img src="https://i.ibb.co/kGtT11X/robot-perfil.png" alt="robot-perfil" border="0"></a> 
